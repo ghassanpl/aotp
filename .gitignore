@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+# Project files
+.vs
+
+# Compiler files
+*.sdf
+*.opensdf
+*.pdb
+*.idb
